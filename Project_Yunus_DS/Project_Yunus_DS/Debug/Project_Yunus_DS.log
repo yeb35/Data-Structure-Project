@@ -1,0 +1,7 @@
+﻿  Project_Yunus_DS.cpp
+C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Project_Yunus_DS\Project_Yunus_DS.cpp(38,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Project_Yunus_DS\Project_Yunus_DS.cpp(57,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Project_Yunus_DS\Project_Yunus_DS.cpp(163,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Project_Yunus_DS\Project_Yunus_DS.cpp(260,25): warning C4244: '=': 'time_t' - 'double' dönüşümü; veri kaybı olabilir
+C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Project_Yunus_DS\Project_Yunus_DS.cpp(288,18): warning C4244: '=': 'time_t' - 'double' dönüşümü; veri kaybı olabilir
+  Project_Yunus_DS.vcxproj -> C:\Users\Yunus\Desktop\KLASÖRLER\GÖNDERİLMİŞ OLAN\Project_Yunus_DS\Debug\Project_Yunus_DS.exe
